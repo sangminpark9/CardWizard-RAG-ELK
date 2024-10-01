@@ -1,7 +1,5 @@
-# 3. lexical_semantic_elastic_streamlit.py
 # pip install openai langchain elasticsearch elasticsearch-dsl eland streamlit pandas==2.2.3
 # pip install -U langchain-community
-
 import streamlit as st
 from elasticsearch import Elasticsearch
 from elasticsearch import helpers
